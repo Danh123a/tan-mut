@@ -15,5 +15,4 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua nhà em nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //m.facebook.com/messages/?entrypoint=jewel&no_hist=1/
-
+    messLink: 'http://fb.com' //https://m.me/Zanueakie
